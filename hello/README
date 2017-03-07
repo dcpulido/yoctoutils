@@ -1,0 +1,39 @@
+INSTRUCCIONES
+
+1) hello.c
+
+     #include <stdio.h>
+
+     main()
+        {
+           printf("Hello World!\n");
+        }
+
+
+2) Makefile.am
+
+     bin_PROGRAMS = hello
+     hello_SOURCES = hello.c
+
+3) configure.in
+
+     AC_INIT(hello.c)
+     AM_INIT_AUTOMAKE(hello,0.1)
+     AC_PROG_CC
+     AC_PROG_INSTALL
+     AC_OUTPUT(Makefile)
+
+4) source /usr/poky/X
+
+5) 
+	adlocal
+	autoconf
+	touch NEWS README AUTHORS ChangeLog
+	automake -a
+
+6) compilar y ejecutar
+	./configure ${CONFIGURE_FLAGS}
+	make
+	make install DESTDIR=./temp
+	file ./tmp/usr/local/bin/hello
+	./hello

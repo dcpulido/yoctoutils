@@ -1,2 +1,11 @@
+INFO
+SDK MANUAL
+http://www.yoctoproject.org/docs/current/adt-manual/adt-manual.html
+
+
+DOWNLOADS
 http://downloads.yoctoproject.org/releases/yocto/yocto-1.6/toolchain/x86_64/
 http://downloads.yoctoproject.org/releases/yocto/yocto-1.6/adt-installer
+https://layers.openembedded.org/layerindex/branch/master/layer/meta-oe/  info sobre meta-oe
+git://git.openembedded.org/meta-openembedded repo meta-openembedded
+https://layers.openembedded.org/layerindex/branch/master/layer/meta-qt5/  QT5

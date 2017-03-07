@@ -1,0 +1,52 @@
+hello.o: hello.c \
+ /opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/stdc-predef.h \
+ /opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/stdio.h \
+ /opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/features.h \
+ /opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/sys/cdefs.h \
+ /opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/bits/wordsize.h \
+ /opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/gnu/stubs.h \
+ /opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/gnu/stubs-32.h \
+ /opt/poky/2.2.1/sysroots/x86_64-pokysdk-linux/usr/lib/i586-poky-linux/gcc/i586-poky-linux/6.2.0/include/stddef.h \
+ /opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/bits/types.h \
+ /opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/bits/typesizes.h \
+ /opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/libio.h \
+ /opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/_G_config.h \
+ /opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/wchar.h \
+ /opt/poky/2.2.1/sysroots/x86_64-pokysdk-linux/usr/lib/i586-poky-linux/gcc/i586-poky-linux/6.2.0/include/stdarg.h \
+ /opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/bits/stdio_lim.h \
+ /opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/bits/sys_errlist.h \
+ /opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/bits/stdio.h
+
+/opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/stdc-predef.h:
+
+/opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/stdio.h:
+
+/opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/features.h:
+
+/opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/sys/cdefs.h:
+
+/opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/bits/wordsize.h:
+
+/opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/gnu/stubs.h:
+
+/opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/gnu/stubs-32.h:
+
+/opt/poky/2.2.1/sysroots/x86_64-pokysdk-linux/usr/lib/i586-poky-linux/gcc/i586-poky-linux/6.2.0/include/stddef.h:
+
+/opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/bits/types.h:
+
+/opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/bits/typesizes.h:
+
+/opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/libio.h:
+
+/opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/_G_config.h:
+
+/opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/wchar.h:
+
+/opt/poky/2.2.1/sysroots/x86_64-pokysdk-linux/usr/lib/i586-poky-linux/gcc/i586-poky-linux/6.2.0/include/stdarg.h:
+
+/opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/bits/stdio_lim.h:
+
+/opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/bits/sys_errlist.h:
+
+/opt/poky/2.2.1/sysroots/i586-poky-linux/usr/include/bits/stdio.h:
