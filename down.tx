@@ -4,6 +4,7 @@ http://www.yoctoproject.org/docs/current/adt-manual/adt-manual.html
 
 
 DOWNLOADS
+http://downloads.yoctoproject.org/releases/yocto/yocto-1.6/machines
 http://downloads.yoctoproject.org/releases/yocto/yocto-1.6/toolchain/x86_64/
 http://downloads.yoctoproject.org/releases/yocto/yocto-1.6/adt-installer
 https://layers.openembedded.org/layerindex/branch/master/layer/meta-oe/  info sobre meta-oe
